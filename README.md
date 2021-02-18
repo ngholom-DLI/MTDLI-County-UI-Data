@@ -1,5 +1,5 @@
 # MTDLI-County-UI-Data
-This repository contains data on the number of claimants for Montana counties by the week end date for which the claimant was unemployed. For example, a claimant may file a claim in December for the weeks they were unemployed in November. The person is counted for the weeks in November and are not added to weekly claimant counts until they file in December. Past dates, therefore, can have an increase in claimants as more claimants are added. A majority of claimants file initial claims not long after they become unemployed, so past claimant counts do not increase that significantly.
+This repository contains data on the number of claimants for Montana counties by the week end date for which the claimant was unemployed. For example, a claimant may file a claim in December for the weeks they were unemployed in November. The person is counted for the weeks in November, but they are not added to weekly claimant counts until they file in December. Past dates, therefore, can have an increases in claimants even after a few months have passed. A majority of claimants file initial claims not long after they become unemployed, so past claimant counts do not increase that significantly.
 
 The variables are as follows:
 
