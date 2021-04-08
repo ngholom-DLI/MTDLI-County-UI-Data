@@ -9,7 +9,7 @@ CountyName - the claimant's county of residence
 
 res_county - the county code of the claimant's residence
 
-People - number of claimants of all types, which includes initial claims, continued claims, PUA claims, Pandemic Emergency Unemployment Compensation claims (PEUC) (additional weeks of compensation provided by the CARES act), and Extended Benefits (additional weeks of compensation available when unemployment in the state is high. EB was available in Montana from May 3rd to November 14th, 2020.)
+People - number of claimants of all types, which includes initial claims, continued claims, PUA claims, Pandemic Emergency Unemployment Compensation claims (PEUC) (additional weeks of compensation provided by the CARES act), and Extended Benefits (additional weeks of compensation available when unemployment in the state is high. EB was available in Montana from May 3rd, 2020 to November 14th, 2020.)
 
 IPeople - number of claimants filing PUA or regular UI for the first week
 
